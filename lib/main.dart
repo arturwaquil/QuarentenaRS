@@ -34,7 +34,10 @@ class Home extends StatelessWidget {
           onPressed: () {},
           child: Text(
             '?',
-            style: TextStyle(fontWeight: FontWeight.w700, fontSize: 29.0, color: Colors.black),
+            style: TextStyle(
+                fontWeight: FontWeight.w700,
+                fontSize: 29.0,
+                color: Colors.black),
           ),
           backgroundColor: Colors.grey[300],
           elevation: 0,
