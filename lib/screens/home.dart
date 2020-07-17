@@ -20,7 +20,9 @@ class Home extends StatelessWidget {
             ),
             Button(
               text: 'MAPA DAS REGIÕES',
-              onPressed: () {},
+              onPressed: () {
+                Navigator.pushNamed(context, '/map');
+              },
             ),
           ],
         ),
