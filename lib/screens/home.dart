@@ -16,7 +16,9 @@ class Home extends StatelessWidget {
             ),
             Button(
               text: 'CONSULTAR CIDADE',
-              onPressed: () {},
+              onPressed: () {
+                Navigator.pushNamed(context, '/infos');
+              },
             ),
             Button(
               text: 'MAPA DAS REGIÕES',
