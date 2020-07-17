@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'widgets/logo.dart';
+import 'package:quarentena_rs/widgets/button.dart';
+import 'package:quarentena_rs/widgets/logo.dart';
 
 void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
@@ -13,17 +14,30 @@ class Home extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         body: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            SizedBox(
-              height: 40.0,
-            ),
             Logo(),
-            FlatButton(
+            SizedBox(
+              height: 90,
+            ),
+            Button(
+              text: 'CONSULTAR CIDADE',
               onPressed: () {},
-              child: Text('CONSULTAR CIDADE'),
-              color: Colors.grey[400],
+            ),
+            Button(
+              text: 'MAPA DAS REGIÕES',
+              onPressed: () {},
             ),
           ],
+        ),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {},
+          child: Text(
+            '?',
+            style: TextStyle(fontWeight: FontWeight.w700, fontSize: 29.0, color: Colors.black),
+          ),
+          backgroundColor: Colors.grey[300],
+          elevation: 0,
         ),
       ),
     );
