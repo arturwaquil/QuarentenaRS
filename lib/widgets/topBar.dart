@@ -22,5 +22,4 @@ class TopBar extends StatelessWidget {
       ),
     );
   }
-
 }
