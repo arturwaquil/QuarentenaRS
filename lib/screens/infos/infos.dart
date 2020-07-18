@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:quarentena_rs/screens/gen_infos.dart';
-import 'package:quarentena_rs/screens/prot_infos.dart';
+import 'package:quarentena_rs/screens/infos/gen_infos.dart';
+import 'package:quarentena_rs/screens/infos/prot_infos.dart';
 
 class Infos extends StatefulWidget {
   @override
