@@ -2,7 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:quarentena_rs/screens/gen_infos.dart';
 import 'package:quarentena_rs/screens/prot_infos.dart';
 
+// ignore: must_be_immutable
 class Infos extends StatefulWidget {
+  String city;
+  Infos({String city}) {
+    this.city = city;
+  }
   @override
   _InfosState createState() => _InfosState();
 }
@@ -10,7 +15,6 @@ class Infos extends StatefulWidget {
 class _InfosState extends State<Infos> {
   int _currentIndex = 0;
   final tabs = [GeneralInfos(), Protocols()];
-
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -39,7 +43,8 @@ class _InfosState extends State<Infos> {
               _currentIndex = index;
             });
           },
-          selectedItemColor: Color.fromRGBO(0, 202, 32, 1), // same green as the logo
+          selectedItemColor:
+              Color.fromRGBO(0, 202, 32, 1), // same green as the logo
           backgroundColor: Colors.grey[300],
         ),
       ),
