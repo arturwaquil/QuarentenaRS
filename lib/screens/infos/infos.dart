@@ -1,22 +1,29 @@
 import 'package:flutter/material.dart';
+import 'package:quarentena_rs/data/cityModel.dart';
 import 'package:quarentena_rs/screens/infos/gen_infos.dart';
 import 'package:quarentena_rs/screens/infos/prot_infos.dart';
 
 // ignore: must_be_immutable
 class Infos extends StatefulWidget {
-  String city;
-  Infos({String city}) {
+  CityModel city;
+  static CityModel modelo = new CityModel();
+
+  Infos({CityModel city}) {
     this.city = city;
   }
   @override
-  _InfosState createState() => _InfosState();
+  _InfosState createState() => _InfosState(city: city);
 }
 
 class _InfosState extends State<Infos> {
+  CityModel city;
+  _InfosState({CityModel city}) {
+    this.city = city;
+  }
   int _currentIndex = 0;
-  final tabs = [GeneralInfos(), Protocols()];
   @override
   Widget build(BuildContext context) {
+    final tabs = [GeneralInfos(city: city), Protocols(bandeira: city.bandeira)];
     return SafeArea(
       child: Scaffold(
         body: tabs[_currentIndex],

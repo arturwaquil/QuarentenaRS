@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quarentena_rs/data/cityModel.dart';
 import 'package:quarentena_rs/screens/infos/infos.dart';
 import 'package:quarentena_rs/widgets/button.dart';
 import 'package:quarentena_rs/widgets/geoLocal/getLocal.dart';
@@ -79,7 +80,10 @@ class _CityQueryState extends State<CityQuery> {
                     context,
                     MaterialPageRoute(
                         builder: (context) => Infos(
-                              city: city,
+                              city: CityModel(
+                                  cidade: "taquari",
+                                  bandeira: Bandeira.LARANJA,
+                                  regiao: Regiao.R01_R02),
                             )),
                   );
                 },
