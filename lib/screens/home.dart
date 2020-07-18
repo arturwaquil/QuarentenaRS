@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
               },
             ),
             Button(
-              text: 'MAPA DAS REGIÕES',
+              text: 'MAPA DO ESTADO',
               onPressed: () {
                 Navigator.pushNamed(context, '/map');
               },

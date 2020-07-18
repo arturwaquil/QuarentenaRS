@@ -12,7 +12,7 @@ class Map extends StatelessWidget {
             TopBar(),
             SizedBox(height: 15.0,),
             Text(
-              'Mapa das regiões',
+              'Mapa do estado',
               style: TextStyle(fontWeight: FontWeight.w700, fontSize: 35),
             ),
             Expanded(

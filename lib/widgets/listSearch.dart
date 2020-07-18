@@ -33,7 +33,7 @@ class _ListSearchState extends State<ListSearch> {
                 border: UnderlineInputBorder(
                     borderSide:
                         BorderSide(color: Color.fromRGBO(0, 202, 32, 1))),
-                hintText: 'Insira sua Cidade...',
+                hintText: 'Insira sua cidade...',
               ),
               onChanged: onItemChanged,
             ),
