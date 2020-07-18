@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pinch_zoom_image/pinch_zoom_image.dart';
+import 'package:pinch_zoom_image_last/pinch_zoom_image_last.dart';
 import 'package:quarentena_rs/widgets/topBar.dart';
 
 class Map extends StatelessWidget {
