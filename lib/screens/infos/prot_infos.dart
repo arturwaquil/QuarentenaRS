@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:quarentena_rs/services/auth.dart';
 import 'package:quarentena_rs/widgets/topBar.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:http/http.dart' as http;
+import 'package:url_launcher/url_launcher.dart';
 
 class Protocols extends StatelessWidget {
   final Color green = Color.fromRGBO(0, 202, 32, 1);
@@ -17,23 +17,26 @@ class Protocols extends StatelessWidget {
   final TextStyle style =
       TextStyle(fontSize: 23, fontWeight: FontWeight.normal);
 
+  // download pdf file directly (not working)
   void _downloadFile(String folder, String filename) async {
     String user = await AuthService().signInAnon();
 
     if (user != null) {
-      print('signed in: $user');
-
-      // String tempDir = '/storage/emulator/0/Download';
       String tempDir = Directory.systemTemp.path;
-      // String tempDir = await getApplicationDocumentsDirectory().then((dir) => dir.path);
       File localPdf = new File('$tempDir/$filename');
       print('$tempDir/$filename');
       protocols.child('$folder/$filename').writeToFile(localPdf);
-
-      
-
     } else {
       print("can't download, user not signed in");
+    }
+  }
+
+  // open pdf link on browser
+  void _launchUrl(String url) async {
+    if (await canLaunch(url)) {
+      await launch(url);
+    } else {
+      throw 'Could not launch $url';
     }
   }
 
@@ -50,9 +53,8 @@ class Protocols extends StatelessWidget {
       color: color,
       padding: EdgeInsets.all(3.0),
       onPressed: () async {
-        dynamic response = await http.get('https://distanciamentocontrolado.rs.gov.br/wp/wp-content/uploads/2020/06/$filename');
-        print(response);
         // _downloadFile(folder, filename);
+        _launchUrl('https://distanciamentocontrolado.rs.gov.br/wp/wp-content/uploads/2020/06/$filename');
       },
     );
   }
