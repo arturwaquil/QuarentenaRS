@@ -219,6 +219,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.6.2"
+  location:
+    dependency: "direct main"
+    description:
+      name: location
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.0.2"
+  location_platform_interface:
+    dependency: transitive
+    description:
+      name: location_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0"
+  location_web:
+    dependency: transitive
+    description:
+      name: location_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0"
   matcher:
     dependency: transitive
     description:
@@ -309,6 +330,7 @@ packages:
       name: process
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "3.0.13"
   quiver:
     dependency: transitive
@@ -316,6 +338,8 @@ packages:
       name: quiver
       url: "https://pub.dartlang.org"
     source: hosted
+=======
+>>>>>>> 225ce7ef940b85a9ab762a0afbbe947a39b00386
     version: "2.1.3"
   sky_engine:
     dependency: transitive

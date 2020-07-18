@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:quarentena_rs/widgets/listSearch.dart';
 import 'package:quarentena_rs/widgets/topBar.dart';
 
-class Consulta extends StatelessWidget {
+class CityList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
         body: Column(
-          children: <Widget>[
-            TopBar(),
-          ],
+          children: <Widget>[TopBar(), Expanded(child: ListSearch())],
+          //ListSearch(),
         ),
       ),
     );

@@ -34,32 +34,31 @@ class _ListSearchState extends State<ListSearch> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Expanded(
-        child: Column(
-          children: <Widget>[
-            Padding(
-              padding: const EdgeInsets.all(12.0),
-              child: TextField(
-                controller: _textController,
-                decoration: InputDecoration(
-                  hintText: 'Search Here...',
-                ),
-                onChanged: onItemChanged,
+      child: Column(
+        children: <Widget>[
+          Padding(
+            padding: const EdgeInsets.all(12.0),
+            child: TextField(
+              controller: _textController,
+              decoration: InputDecoration(
+                hintText: 'Insira sua Cidade...',
               ),
+              onChanged: onItemChanged,
             ),
-            Expanded(
-              child: ListView(
-                padding: EdgeInsets.all(12.0),
-                children: newDataList.map((data) {
-                  return ListTile(
-                    title: Text(data),
-                    onTap: () => print(data),
-                  );
-                }).toList(),
-              ),
-            )
-          ],
-        ),
+          ),
+          Expanded(
+            child: ListView(
+              shrinkWrap: true,
+              padding: EdgeInsets.all(12.0),
+              children: newDataList.map((data) {
+                return ListTile(
+                  title: Text(data),
+                  onTap: () => Navigator.pop(context, data),
+                );
+              }).toList(),
+            ),
+          ),
+        ],
       ),
     );
   }
