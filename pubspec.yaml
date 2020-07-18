@@ -25,7 +25,10 @@ dependencies:
     sdk: flutter
   pinch_zoom_image_last: ^0.3.1
   cloud_firestore: ^0.13.7
-
+  firebase_storage: ^3.1.6
+  firebase_auth: ^0.16.1
+  path_provider: ^1.6.11
+  
   google_maps_flutter: ^0.5.28+1
   http: ^0.12.2
 
