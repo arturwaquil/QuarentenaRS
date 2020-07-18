@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958904983795",
+    "firebase_url": "https://quarentena-rs.firebaseio.com",
+    "project_id": "quarentena-rs",
+    "storage_bucket": "quarentena-rs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958904983795:android:7fdce5feb1fdc9d8dd9786",
+        "android_client_info": {
+          "package_name": "com.quarentena_rs.quarentena_rs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958904983795-l74ppmhlsupp3g675sc0lv86jrckr2pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2u7blJ0Yq4KkGeoExZs2O2o_LZHeLQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958904983795-l74ppmhlsupp3g675sc0lv86jrckr2pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

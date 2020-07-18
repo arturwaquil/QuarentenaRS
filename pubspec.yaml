@@ -24,10 +24,10 @@ dependencies:
   flutter:
     sdk: flutter
   pinch_zoom_image_last: ^0.3.1
+  cloud_firestore: ^0.13.7
 
   google_maps_flutter: ^0.5.28+1
   http: ^0.12.2
-  searchable_dropdown:
 
 
   # The following adds the Cupertino Icons font to your application.
