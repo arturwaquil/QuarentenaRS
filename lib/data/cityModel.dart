@@ -42,10 +42,10 @@ class CityModel {
 enum Bandeira { VERMELHA, LARANJA, AMARELA, PRETA }
 
 final bandeiraValues = EnumValues({
-  "laranja": Bandeira.LARANJA,
-  "vermelha": Bandeira.VERMELHA,
-  "amarela": Bandeira.AMARELA,
-  "preta": Bandeira.PRETA
+  "Laranja": Bandeira.LARANJA,
+  "Vermelha": Bandeira.VERMELHA,
+  "Amarela": Bandeira.AMARELA,
+  "Preta": Bandeira.PRETA
 });
 
 enum Regiao {

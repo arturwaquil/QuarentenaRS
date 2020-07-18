@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quarentena_rs/data/cityModel.dart';
 import 'package:quarentena_rs/screens/infos/infos.dart';
 import 'package:quarentena_rs/widgets/button.dart';
 import 'package:quarentena_rs/widgets/geoLocal/getLocal.dart';
@@ -79,18 +80,18 @@ class _CityQueryState extends State<CityQuery> {
                   ),
                   FlatButton(
                     padding: EdgeInsets.all(15.0),
-                    onPressed: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: (context) => Infos(city: city)),
-                      );
-                    },
                     child: Text(
                       "OK",
                       style: TextStyle(
                           fontWeight: FontWeight.w700, fontSize: 20.0),
                     ),
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => Infos(city: CityModel(cidade: 'Porto Alegre', regiao: Regiao.R09_R10, bandeira: Bandeira.VERMELHA))),
+                      );
+                    },
                     color: Colors.grey[300],
                   ),
                 ],
