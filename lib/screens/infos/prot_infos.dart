@@ -8,8 +8,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 class Protocols extends StatelessWidget {
   final Color green = Color.fromRGBO(0, 202, 32, 1);
-  final Color red = Color.fromRGBO(255, 0, 0, 1);
-  final Color yellow = Color.fromRGBO(255, 199, 0, 1);
+  final Color altGreen = Colors.lightGreenAccent[400];
 
   final StorageReference protocols =
       FirebaseStorage.instance.ref().child('protocolos');
@@ -54,7 +53,8 @@ class Protocols extends StatelessWidget {
       padding: EdgeInsets.all(3.0),
       onPressed: () async {
         // _downloadFile(folder, filename);
-        _launchUrl('https://distanciamentocontrolado.rs.gov.br/wp/wp-content/uploads/2020/06/$filename');
+        _launchUrl(
+            'https://distanciamentocontrolado.rs.gov.br/wp/wp-content/uploads/2020/06/$filename');
       },
     );
   }
@@ -87,47 +87,47 @@ class Protocols extends StatelessWidget {
                       title: 'Alojamento e Alimentação',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: red),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Comércio',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: red),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Educação',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: yellow),
+                      color: green),
                   ProtocolsTile(
                       title: 'Indústria',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: yellow),
+                      color: green),
                   ProtocolsTile(
                       title: 'Saúde',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: green),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Serviços',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: green),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Serviços de Informação e Comunicação',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: red),
+                      color: green),
                   ProtocolsTile(
                       title: 'Serviços de Utilidade Pública',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: red),
+                      color: green),
                   ProtocolsTile(
                       title: 'Transportes',
                       folder: 'administracao_publica',
                       filename: 'Administracao_Publica_AMARELA-2.pdf',
-                      color: yellow),
+                      color: altGreen),
                 ],
               ),
             ),

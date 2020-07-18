@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quarentena_rs/screens/infos.dart';
+import 'package:quarentena_rs/screens/infos/infos.dart';
 import 'package:quarentena_rs/widgets/button.dart';
 import 'package:quarentena_rs/widgets/geoLocal/getLocal.dart';
 import 'package:quarentena_rs/widgets/topBar.dart';
