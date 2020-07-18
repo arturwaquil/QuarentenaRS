@@ -1,0 +1,2497 @@
+[
+  {
+    "cidade": "Agudo",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cacequi",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Capão do Cipó",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dilermando de Aguiar",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dona Francisca",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Faxinal do Soturno",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Formigueiro",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Itaara",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Itacurubi",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ivorá",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jaguari",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jari",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Júlio de Castilhos",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mata",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Esperança do Sul",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Palma",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Paraíso do Sul",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pinhal Grande",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Quevedos",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Restinga Seca",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Maria",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santiago",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Francisco de Assis",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São João do Polêsine",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Martinho da Serra",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Pedro do Sul",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Sepé",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Vicente do Sul",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Silveira Martins",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Toropi",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Unistalda",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vila Nova do Sul",
+    "regiao": "R01/R02",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Alegrete",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barra do Quaraí",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Itaqui",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Maçambara",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Manoel Viana",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Quaraí",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rosário do Sul",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Margarida do Sul",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santana do Livramento",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Gabriel",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Uruguaiana",
+    "regiao": "R03",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Arroio do Sal",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Balneário Pinhal",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Capão da Canoa",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Capivari do Sul",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Caraá",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cidreira",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dom Pedro de Alcântara",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Imbé",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Itati",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mampituba",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Maquiné",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Morrinhos do Sul",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mostardas",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Osório",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Palmares do Sul",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Antônio da Patrulha",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tavares",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Terra de Areia",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Torres",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tramandaí",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Cachoeiras",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Forquilhas",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Xangri-lá",
+    "regiao": "R04/R05",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cambará do Sul",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Igrejinha",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Parobé",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Riozinho",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rolante",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Francisco de Paula",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Taquara",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Coroas",
+    "regiao": "R06",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Araricá",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Campo Bom",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dois Irmãos",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Estância Velha",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ivoti",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lindolfo Collor",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Morro Reuter",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Hartz",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Novo Hamburgo",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Portão",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Presidente Lucena",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Maria do Herval",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José do Hortêncio",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Leopoldo",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sapiranga",
+    "regiao": "R07",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barão",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Brochier",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Canoas",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Capela de Santana",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Esteio",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Harmonia",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Maratá",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Montenegro",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Santa Rita",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pareci Novo",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Salvador do Sul",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José do Sul",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Pedro da Serra",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Sebastião do Caí",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sapucaia do Sul",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tabaí",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Triunfo",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tupandi",
+    "regiao": "R08",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Alvorada",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Arambaré",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Arroio dos Ratos",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barão do Triunfo",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barra do Ribeiro",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Butiá",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cachoeirinha",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Camaquã",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cerro Grande do Sul",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Charqueadas",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Chuvisca",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dom Feliciano",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Eldorado do Sul",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "General Câmara",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Glorinha",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Gravataí",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Guaíba",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mariana Pimentel",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Minas do Leão",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Porto Alegre",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Jerônimo",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sentinela do Sul",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sertão Santana",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tapes",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Viamão",
+    "regiao": "R09/R10",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bossoroca",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Caibaté",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cerro Largo",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dezesseis de Novembro",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Entre-Ijuís",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Eugênio de Castro",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Garruchos",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Guarani das Missões",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mato Queimado",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pirapó",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Porto Xavier",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rolador",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Roque Gonzales",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Salvador das Missões",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Ângelo",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Antônio das Missões",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Borja",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Luiz Gonzaga",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Miguel das Missões",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Nicolau",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Pedro do Butiá",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sete de Setembro",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ubiretama",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vitória das Missões",
+    "regiao": "R11",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Boa Vista do Cadeado",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Boa Vista do Incra",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Colorado",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cruz Alta",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Fortaleza dos Valos",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ibirubá",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jacuizinho",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Quinze de Novembro",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Saldanha Marinho",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Salto do Jacuí",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Bárbara do Sul",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Selbach",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tupanciretã",
+    "regiao": "R12",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ajuricaba",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Augusto Pestana",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bozano",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Campo Novo",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Catuípe",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Chiapetta",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Condor",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Coronel Barros",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Crissiumal",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Humaitá",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ijuí",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Inhacorá",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jóia",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Ramada",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Panambi",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pejuçara",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Augusto",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Martinho",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Valério do Sul",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sede Nova",
+    "regiao": "R13",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Alecrim",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Alegria",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Boa Vista do Buricá",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Campina das Missões",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cândido Godói",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Doutor Maurício Cardoso",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Giruá",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Horizontina",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Independência",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Candelária",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Novo Machado",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Porto Lucena",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Porto Mauá",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Porto Vera Cruz",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Rosa",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Cristo",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José do Inhacorá",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Paulo das Missões",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Senador Salgado Filho",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três de Maio",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tucunduva",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tuparendi",
+    "regiao": "R14",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Alpestre",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ametista do Sul",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barra do Guarita",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barra Funda",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Boa Vista das Missões",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bom Progresso",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Braga",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Caiçara",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cerro Grande",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Chapada",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Constantina",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Coronel Bicaco",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cristal do Sul",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Derrubadas",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dois Irmãos das Missões",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Engenho Velho",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Erval Seco",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Esperança do Sul",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Frederico Westphalen",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Gramado dos Loureiros",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Iraí",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jaboticaba",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lajeado do Bugre",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Liberato Salzano",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Miraguaí",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Boa Vista",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Novo Barreiro",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Novo Tiradentes",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Novo Xingu",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Palmeira das Missões",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Palmitinho",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pinhal",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pinheirinho do Vale",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Planalto",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Redentora",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rodeio Bonito",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ronda Alta",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rondinha",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sagrada Família",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José das Missões",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Pedro das Missões",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sarandi",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Seberi",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Taquaruçu do Sul",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tenente Portela",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tiradentes do Sul",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Palmeiras",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Passos",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Trindade do Sul",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vicente Dutra",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vista Alegre",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vista Gaúcha",
+    "regiao": "R15/R20",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Aratiba",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Áurea",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barão de Cotegipe",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barra do Rio Azul",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Benjamin Constant do Sul",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Campinas do Sul",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Carlos Gomes",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Centenário",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Charrua",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cruzaltense",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Entre Rios do Sul",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Erebango",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Erechim",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Erval Grande",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Estação",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Faxinalzinho",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Floriano Peixoto",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Gaurama",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Getúlio Vargas",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ipiranga do Sul",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Itatiba do Sul",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jacutinga",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Marcelino Ramos",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mariano Moro",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nonoai",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Paulo Bento",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ponte Preta",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Quatro Irmãos",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rio dos Índios",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Valentim",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Severiano de Almeida",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Arroios",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Viadutos",
+    "regiao": "R16",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Água Santa",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Almirante Tamandaré do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Alto Alegre",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "André da Rocha",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Arvorezinha",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barracão",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Barros Cassal",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cacique Doble",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Camargo",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Campos Borges",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Capão Bonito do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Carazinho",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Casca",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Caseiros",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ciríaco",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Coqueiros do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Coxilha",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "David Canabarro",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ernestina",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Espumoso",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Fontoura Xavier",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Gentil",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ibiaçá",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ibiraiaras",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ibirapuitã",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Itapuca",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lagoa dos",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Três Cantos",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lagoa Vermelha",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lagoão",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Machadinho",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Marau",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mato Castelhano",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Maximiliano de Almeida",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Montauri",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mormaço",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Muliterno",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Não-Me-Toque",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nicolau Vergueiro",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Alvorada",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Paim Filho",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Passo Fundo",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pontão",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sananduva",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Cecília do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Antônio do Palma",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Antônio do Planalto",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santo Expedito do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Domingos do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São João da Urtiga",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José do Ouro",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Serafina Corrêa",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sertão",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Soledade",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tapejara",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tapera",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tio Hugo",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tunas",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tupanci do Sul",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vanini",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Victor Graeff",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vila Lângaro",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vila Maria",
+    "regiao": "R17/R18/R19",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Amaral Ferrador",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Arroio do Padre",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Arroio Grande",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Canguçu",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Capão do Leão",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Cerrito",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Chuí",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Cristal",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Herval",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Jaguarão",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Morro Redondo",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Pedras Altas",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Pedro Osório",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Pelotas",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Pinheiro Machado",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Piratini",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Rio Grande",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Santa Vitória do Palmar",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Santana da Boa Vista",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "São José do Norte",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "São Lourenço do Sul",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Turuçu",
+    "regiao": "R21",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Aceguá",
+    "regiao": "R22",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Bagé",
+    "regiao": "R22",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Candiota",
+    "regiao": "R22",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Dom Pedrito",
+    "regiao": "R22",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Hulha Negra",
+    "regiao": "R22",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Lavras do Sul",
+    "regiao": "R22",
+    "bandeira": "laranja"
+  },
+  {
+    "cidade": "Alto Feliz",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Antônio Prado",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bento Gonçalves",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Boa Vista do Sul",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bom Jesus",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bom Princípio",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Campestre da Serra",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Canela",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Carlos Barbosa",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Caxias do Sul",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Coronel Pilar",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cotiporã",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Esmeralda",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Fagundes Varela",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Farroupilha",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Feliz",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Flores da Cunha",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Garibaldi",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Gramado",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Guabiju",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Guaporé",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ipê",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Jaquirana",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Linha Nova",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Monte Alegre dos Campos",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Monte Belo do Sul",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Muitos Capões",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Araçá",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Bassano",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Pádua",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Petrópolis",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Prata",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Roma do Sul",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Paraí",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Picada Café",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pinhal da Serra",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pinto Bandeira",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Protásio Alves",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Tereza",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Jorge",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José dos Ausentes",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Marcos",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Vendelino",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "União da Serra",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vacaria",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vale Real",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Veranópolis",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vila Flores",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vista Alegre do Prata",
+    "regiao": "R23/R24/R25/R26",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Arroio do Tigre",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Caçapava do Sul",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cachoeira do Sul",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cerro Branco",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Encruzilhada do Sul",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Estrela Velha",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ibarama",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lagoa Bonita do Sul",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Novo Cabrais",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Passa Sete",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Segredo",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sobradinho",
+    "regiao": "R27",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Candelária",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Gramado Xavier",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Herveiras",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Mato Leitão",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pantano Grande",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Passo do Sobrado",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Rio Pardo",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Cruz do Sul",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sinimbu",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vale do Sol",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vale Verde",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Venâncio Aires",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vera Cruz",
+    "regiao": "R28",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Anta Gorda",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Arroio do Meio",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Bom Retiro do Sul",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Boqueirão do Leão",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Canudos do Vale",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Capitão",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Colinas",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Coqueiro Baixo",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Cruzeiro do Sul",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Dois Lajeados",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Doutor Ricardo",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Encantado",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Estrela",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Fazenda Vilanova",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Forquetinha",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Ilópolis",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Imigrante",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Lajeado",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Marques de Souza",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Muçum",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Nova Bréscia",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Paverama",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Poço das Antas",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Pouso Novo",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Progresso",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Putinga",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Relvado",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Roca Sales",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Santa Clara do Sul",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São José do Herval",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "São Valentim do Sul",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Sério",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Taquari",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Teutônia",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Travesseiro",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Vespasiano Correa",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  },
+  {
+    "cidade": "Westfalia",
+    "regiao": "R29/R30",
+    "bandeira": "vermelha"
+  }
+]

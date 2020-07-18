@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quarentena_rs/data/cityList.dart';
 
 class ListSearch extends StatefulWidget {
   @override
@@ -7,29 +8,9 @@ class ListSearch extends StatefulWidget {
 
 class _ListSearchState extends State<ListSearch> {
   TextEditingController _textController = TextEditingController();
+  static List<String> mainDataList = getcityList();
 
-  static List<String> mainDataList = [
-    "Apple",
-    "Apricot",
-    "Banana",
-    "Blackberry",
-    "Coconut",
-    "Date",
-    "Fig",
-    "Gooseberry",
-    "Grapes",
-    "Lemon",
-    "Litchi",
-    "Mango",
-    "Orange",
-    "Papaya",
-    "Peach",
-    "Pineapple",
-    "Pomegranate",
-    "Starfruit"
-  ];
-
-  List<String> newDataList = List.from(mainDataList);
+  List<String> newDataList = mainDataList;
 
   @override
   Widget build(BuildContext context) {
@@ -39,8 +20,19 @@ class _ListSearchState extends State<ListSearch> {
           Padding(
             padding: const EdgeInsets.all(12.0),
             child: TextField(
+              cursorColor: Color.fromRGBO(0, 202, 32, 1),
+              autofocus: true,
               controller: _textController,
               decoration: InputDecoration(
+                enabledBorder: UnderlineInputBorder(
+                    borderSide:
+                        BorderSide(color: Color.fromRGBO(0, 202, 32, 1))),
+                focusedBorder: UnderlineInputBorder(
+                    borderSide:
+                        BorderSide(color: Color.fromRGBO(0, 202, 32, 1))),
+                border: UnderlineInputBorder(
+                    borderSide:
+                        BorderSide(color: Color.fromRGBO(0, 202, 32, 1))),
                 hintText: 'Insira sua Cidade...',
               ),
               onChanged: onItemChanged,
