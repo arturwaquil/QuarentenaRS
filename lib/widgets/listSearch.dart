@@ -21,7 +21,7 @@ class _ListSearchState extends State<ListSearch> {
             padding: const EdgeInsets.all(12.0),
             child: TextField(
               cursorColor: Color.fromRGBO(0, 202, 32, 1),
-              autofocus: true,
+              // autofocus: true,
               controller: _textController,
               decoration: InputDecoration(
                 enabledBorder: UnderlineInputBorder(

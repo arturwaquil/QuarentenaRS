@@ -20,6 +20,9 @@ class Home extends StatelessWidget {
                 Navigator.pushNamed(context, '/cityQuery');
               },
             ),
+            SizedBox(
+              height: 30,
+            ),
             Button(
               text: 'MAPA DO ESTADO',
               onPressed: () {
