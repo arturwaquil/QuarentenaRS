@@ -7,30 +7,44 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            Logo(),
-            SizedBox(
-              height: 90,
+        body: Column(children: <Widget>[
+          Expanded(
+            flex: 9,
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: <Widget>[
+                Logo(),
+                SizedBox(
+                  height: 90,
+                ),
+                Button(
+                  text: 'CONSULTAR CIDADE',
+                  onPressed: () {
+                    Navigator.pushNamed(context, '/cityQuery');
+                  },
+                ),
+                SizedBox(
+                  height: 30,
+                ),
+                Button(
+                  text: 'MAPA DO ESTADO',
+                  onPressed: () {
+                    Navigator.pushNamed(context, '/map');
+                  },
+                ),
+              ],
             ),
-            Button(
-              text: 'CONSULTAR CIDADE',
-              onPressed: () {
-                Navigator.pushNamed(context, '/cityQuery');
-              },
+          ),
+          Expanded(
+            flex: 1,
+            child: Padding(
+              padding: EdgeInsets.fromLTRB(5, 10, 100, 10),
+              child: Text(
+                'Este aplicativo é um protótipo e foi atualizado pela ultima vez no dia 18/07/2020',
+              ),
             ),
-            SizedBox(
-              height: 30,
-            ),
-            Button(
-              text: 'MAPA DO ESTADO',
-              onPressed: () {
-                Navigator.pushNamed(context, '/map');
-              },
-            ),
-          ],
-        ),
+          ),
+        ]),
         floatingActionButton: FloatingActionButton(
           onPressed: () {
             Navigator.pushNamed(context, '/help');
