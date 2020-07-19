@@ -1,9 +1,7 @@
-import 'dart:io';
-
+import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:quarentena_rs/data/cityModel.dart';
 import 'package:quarentena_rs/widgets/topBar.dart';
-import 'package:firebase_storage/firebase_storage.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'linkArray/laranja.dart';
@@ -93,58 +91,52 @@ class Protocols extends StatelessWidget {
                 mainAxisSpacing: 10,
                 children: <Widget>[
                   ProtocolsTile(
+                      title: 'Protocolos Gerais',
+                      filename:
+                          "06/Protocolos_especificacoes_versao_site_15-06-2020.pdf",
+                      color: green),
+                  ProtocolsTile(
                       title: 'Administação Pública',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(0),
                       color: green),
                   ProtocolsTile(
                       title: 'Agropecuária',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(1),
-                      color: green),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Alojamento e Alimentação',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(2),
                       color: altGreen),
                   ProtocolsTile(
                       title: 'Comércio',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(3),
-                      color: altGreen),
+                      color: green),
                   ProtocolsTile(
                       title: 'Educação',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(4),
                       color: green),
                   ProtocolsTile(
                       title: 'Indústria',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(5),
-                      color: green),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Saúde',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(6),
                       color: altGreen),
                   ProtocolsTile(
                       title: 'Serviços',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(7),
-                      color: altGreen),
+                      color: green),
                   ProtocolsTile(
                       title: 'Serviços de Informação e Comunicação',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(8),
                       color: green),
                   ProtocolsTile(
                       title: 'Serviços de Utilidade Pública',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(9),
-                      color: green),
+                      color: altGreen),
                   ProtocolsTile(
                       title: 'Transportes',
-                      folder: 'administracao_publica',
                       filename: links.elementAt(10),
                       color: altGreen),
                 ],

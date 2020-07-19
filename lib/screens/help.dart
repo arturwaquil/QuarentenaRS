@@ -47,36 +47,15 @@ class Help extends StatelessWidget {
                             fontSize: 24, fontWeight: FontWeight.bold),
                       ),
                       SizedBox(height: 20.0),
+
                       Text(
-                          '''Os grupos deverão apresentar a etapa de projeto e prototipação dos seus trabalhos nas aulas desta semana, incluindo uma demo do protótipo.
-
-A ordem de apresentação será definida por mim, no dia da apresentação. Segue algumas instruções:
-
-- submetam por esta atividade os slides da apresentação, incluindo um cronograma para a conclusão do projeto e o indicativo de quanto % da implementação já está concluída.'''),
+                          "Este aplicativo tem como objetivo trazer informações sobre os Protocolos e medidas do Governo do Estado do Rio Grande do Sul relacionadas a pandemia do Covid-19."),
                       Text(
-                          '''Os grupos deverão apresentar a etapa de projeto e prototipação dos seus trabalhos nas aulas desta semana, incluindo uma demo do protótipo.
-
-A ordem de apresentação será definida por mim, no dia da apresentação. Segue algumas instruções:
-
-- submetam por esta atividade os slides da apresentação, incluindo um cronograma para a conclusão do projeto e o indicativo de quanto % da implementação já está concluída.'''),
+                          "Para isso duas funcionalidades foram implementadas: "),
                       Text(
-                          '''Os grupos deverão apresentar a etapa de projeto e prototipação dos seus trabalhos nas aulas desta semana, incluindo uma demo do protótipo.
-
-A ordem de apresentação será definida por mim, no dia da apresentação. Segue algumas instruções:
-
-- submetam por esta atividade os slides da apresentação, incluindo um cronograma para a conclusão do projeto e o indicativo de quanto % da implementação já está concluída.'''),
+                          "A primeira, Consultar cidade, permite que o usuário insira sua cidade, selecionando da lista ou utilizando o GPS do aparelho, e receba a sua bandeira, uma explicação dela e os protocolos associados a cada setor da economia"),
                       Text(
-                          '''Os grupos deverão apresentar a etapa de projeto e prototipação dos seus trabalhos nas aulas desta semana, incluindo uma demo do protótipo.
-
-A ordem de apresentação será definida por mim, no dia da apresentação. Segue algumas instruções:
-
-- submetam por esta atividade os slides da apresentação, incluindo um cronograma para a conclusão do projeto e o indicativo de quanto % da implementação já está concluída.'''),
-                      Text(
-                          '''Os grupos deverão apresentar a etapa de projeto e prototipação dos seus trabalhos nas aulas desta semana, incluindo uma demo do protótipo.
-
-A ordem de apresentação será definida por mim, no dia da apresentação. Segue algumas instruções:
-
-- submetam por esta atividade os slides da apresentação, incluindo um cronograma para a conclusão do projeto e o indicativo de quanto % da implementação já está concluída.'''),
+                          "A segunda, Mapa das Regiões, permite que o usuário acesse um mapa geral do estado com as bandeiras atuais em cada região.")
                     ],
                   ),
                 ),

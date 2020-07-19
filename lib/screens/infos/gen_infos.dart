@@ -49,31 +49,17 @@ class GeneralInfos extends StatelessWidget {
                 ),
               ],
             ),
-            SizedBox(height: 30),
-            Text(
-              'ÚLTIMAS BANDEIRAS:',
-              style: TextStyle(fontSize: 27),
-            ),
-            Text(
-              '31/05-06/06: LARANJA',
-              style: TextStyle(fontSize: 22),
-            ),
-            Text(
-              '24/05-30/05: AMARELA',
-              style: TextStyle(fontSize: 22),
-            ),
-            Text(
-              '17/05-23/05: AMARELA',
-              style: TextStyle(fontSize: 22),
-            ),
-            SizedBox(height: 30),
-            Text('ETC')
+            SizedBox(height: 10),
+            Padding(
+                padding: EdgeInsets.all(30),
+                child: getFlagExplanation(city.bandeira)),
           ],
         ),
       ),
     );
   }
 
+  // ignore: missing_return
   MaterialColor flagColor(Bandeira bandeira) {
     switch (bandeira) {
       case Bandeira.AMARELA:
@@ -84,6 +70,48 @@ class GeneralInfos extends StatelessWidget {
         return Colors.red;
       case Bandeira.PRETA:
         return Colors.black;
+    }
+  }
+
+  // ignore: missing_return
+  Column getFlagExplanation(Bandeira bandeira) {
+    switch (bandeira) {
+      case Bandeira.LARANJA:
+        return Column(
+          children: <Widget>[
+            Text("A região encontra-se em um dos dois cenários: ",
+                textAlign: TextAlign.justify, style: TextStyle(fontSize: 25)),
+            Text(
+                "1- Média capacidade do sistema de saúde e baixa propagação do vírus",
+                textAlign: TextAlign.justify,
+                style: TextStyle(fontSize: 25)),
+            Text(
+                "2- Alta capacidade do sistema de saúde e média propagação do vírus.",
+                textAlign: TextAlign.justify,
+                style: TextStyle(fontSize: 25))
+          ],
+        );
+      case Bandeira.VERMELHA:
+        return Column(
+          children: <Widget>[
+            Text("A região encontra-se em um dos dois cenários: ",
+                textAlign: TextAlign.justify, style: TextStyle(fontSize: 25)),
+            Text(
+                "1 - Baixa capacidade do sistema de saúde e média propagação do vírus",
+                textAlign: TextAlign.justify,
+                style: TextStyle(fontSize: 25)),
+            Text(
+                "2 - Média/alta capacidade do sistema de saúde, porém alta propagação do vírus.",
+                textAlign: TextAlign.justify,
+                style: TextStyle(fontSize: 25))
+          ],
+        );
+      case Bandeira.AMARELA:
+        // TODO: Handle this case.
+        break;
+      case Bandeira.PRETA:
+        // TODO: Handle this case.
+        break;
     }
   }
 }
