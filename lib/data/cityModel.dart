@@ -3,13 +3,13 @@
 //     final cityModel = cityModelFromJson(jsonString);
 
 import 'dart:convert';
-
 import 'dart:io';
+import 'package:flutter/services.dart';
 
 final File file = new File('cities.json');
 
 Future<List<CityModel>> cityModelFromJson() async => List<CityModel>.from(json
-    .decode(await file.readAsString(encoding: utf8))
+    .decode(await rootBundle.loadString('lib/data/cities.json'))
     .map((x) => CityModel.fromJson(x)));
 
 String cityModelToJson(List<CityModel> data) =>

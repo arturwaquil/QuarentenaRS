@@ -66,12 +66,20 @@ class _CityQueryState extends State<CityQuery> {
                               fontSize: 40,
                               color: Color.fromRGBO(0, 202, 32, 1)),
                         ),
-                        !loading? SizedBox(width: 0,) : Row(
-                          children: <Widget>[
-                            SizedBox(width: 20),
-                            SpinKitRing(color: Color.fromRGBO(0, 202, 32, 1), size: 30, lineWidth: 5,)
-                          ],
-                        ),
+                        !loading
+                            ? SizedBox(
+                                width: 0,
+                              )
+                            : Row(
+                                children: <Widget>[
+                                  SizedBox(width: 20),
+                                  SpinKitRing(
+                                    color: Color.fromRGBO(0, 202, 32, 1),
+                                    size: 30,
+                                    lineWidth: 5,
+                                  )
+                                ],
+                              ),
                       ],
                     ),
                   ),
@@ -85,11 +93,17 @@ class _CityQueryState extends State<CityQuery> {
                       style: TextStyle(
                           fontWeight: FontWeight.w700, fontSize: 20.0),
                     ),
-                    onPressed: () {
+                    onPressed: () async {
+                      List<CityModel> cities = await cityModelFromJson();
+                      CityModel cityModel = cities
+                          .where((citymodel) => citymodel.cidade == city)
+                          .elementAt(0);
+
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                            builder: (context) => Infos(city: CityModel(cidade: 'Porto Alegre', regiao: Regiao.R09_R10, bandeira: Bandeira.VERMELHA))),
+                          builder: (context) => Infos(city: cityModel),
+                        ),
                       );
                     },
                     color: Colors.grey[300],
