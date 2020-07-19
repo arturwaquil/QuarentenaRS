@@ -84,9 +84,13 @@ class Protocols extends StatelessWidget {
           children: <Widget>[
             TopBar(),
             SizedBox(height: 25),
-            Text(
-              city.cidade,
-              style: TextStyle(fontWeight: FontWeight.w700, fontSize: 35),
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 40.0),
+              child: Text(
+                city.cidade,
+                textAlign: TextAlign.center,
+                style: TextStyle(fontWeight: FontWeight.w700, fontSize: 35),
+              ),
             ),
             SizedBox(height: 15),
             Expanded(
