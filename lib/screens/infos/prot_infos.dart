@@ -69,8 +69,7 @@ class Protocols extends StatelessWidget {
       padding: EdgeInsets.all(3.0),
       onPressed: () async {
         // _downloadFile(folder, filename);
-        _launchUrl(
-            'https://distanciamentocontrolado.rs.gov.br/wp/wp-content/uploads/2020/$filename');
+        _launchUrl(filename);
       },
     );
   }
@@ -103,7 +102,7 @@ class Protocols extends StatelessWidget {
                   ProtocolsTile(
                       title: 'Protocolos Gerais',
                       filename:
-                          "06/Protocolos_especificacoes_versao_site_15-06-2020.pdf",
+                          "https://drive.google.com/file/d/1qTB4pFpeD6eRpxf7aSfiT4iR0aDDxLss/view?usp=sharing",
                       color: green),
                   ProtocolsTile(
                       title: 'Administação Pública',

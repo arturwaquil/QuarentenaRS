@@ -1,15 +1,15 @@
 List<String> getOrangeLinks() {
   return [
-    "06/Administracao_Publica_LARANJA-2.pdf", //Administação Pública
-    "06/Agropecuaria_LARANJA-2.pdf", //Agropecuária
-    "07/Alojamento_e_Alimentacao_LARANJA.pdf", //Alojamento e Alimentação
-    "07/Comercio_LARANJA-1.pdf", //Comércio
-    "07/Educacao_LARANJA.pdf", //Educação
-    "06/Industria_LARANJA-2.pdf", //Indústria
-    "06/Saude_LARANJA-1.pdf", //Saúde
-    "07/Servicos_LARANJA-1.pdf", //Serviços
-    "06/Servicos-de-Informacao_LARANJA-2.pdf", //Serviços de Informação e Comunicação
-    "06/Servicos_de_Utilidade_Publica_LARANJA-2.pdf", //Serviços de Utilidade Pública
-    "07/Transporte_LARANJA.pdf" //Transportes
+    "https://drive.google.com/file/d/1wtT9xHf-0rLW_jfoJXGbXYp0v7vpRyik/view?usp=sharing", //Administação Pública
+    "https://drive.google.com/file/d/1-ADWfwlewvFdjIinwJ6GI1WDK5Xkvbir/view?usp=sharing", //Agropecuária
+    "https://drive.google.com/file/d/1rGoMrVGkCMC1KN7KtFZ_0owEuJM8DmCg/view?usp=sharing", //Alojamento e Alimentação
+    "https://drive.google.com/file/d/1NtzwGpfQV6JmOkKulP7nZTNKeSjQnMFx/view?usp=sharing", //Comércio
+    "https://drive.google.com/file/d/1YIT84BsaPb61k2PEfRr7N_LyIshbX3aI/view?usp=sharing", //Educação
+    "https://drive.google.com/file/d/1yDD3nRHM9GygTqXhs_nXvgQe0zp6hMpx/view?usp=sharing", //Indústria
+    "https://drive.google.com/file/d/1eZ3yu9QENlzNG8hrZEACCuHKXM1lrq-0/view?usp=sharing", //Saúde
+    "https://drive.google.com/file/d/1EUXhSGd6m6w3Wi6zdm6z2RXzbjyJ8Guk/view?usp=sharing", //Serviços
+    "https://drive.google.com/file/d/1GNM3fBUXC8j-MG7JLy6xrlxNmstXCTlR/view?usp=sharing", //Serviços de Informação e Comunicação
+    "https://drive.google.com/file/d/14quMqTE2Zc87PEZEhPl_KI0rx2vOkXak/view?usp=sharing", //Serviços de Utilidade Pública
+    "https://drive.google.com/file/d/1iH8YRBSyj6yTVeuQtl3fefBxt0kx9HLt/view?usp=sharing" //Transportes
   ];
 }
