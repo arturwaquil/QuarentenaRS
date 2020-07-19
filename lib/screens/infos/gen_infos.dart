@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quarentena_rs/data/cityModel.dart';
 import 'package:quarentena_rs/widgets/topBar.dart';
+import 'package:quarentena_rs/widgets/warning_prototype.dart';
 
 class GeneralInfos extends StatelessWidget {
   final CityModel city;
@@ -53,6 +54,10 @@ class GeneralInfos extends StatelessWidget {
             Padding(
                 padding: EdgeInsets.all(30),
                 child: getFlagExplanation(city.bandeira)),
+            Padding(
+              padding: EdgeInsets.all(30),
+              child: WarningPrototype(),
+            )
           ],
         ),
       ),

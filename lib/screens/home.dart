@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quarentena_rs/widgets/button.dart';
 import 'package:quarentena_rs/widgets/logo.dart';
+import 'package:quarentena_rs/widgets/warning_prototype.dart';
 
 class Home extends StatelessWidget {
   @override
@@ -38,10 +39,8 @@ class Home extends StatelessWidget {
           Expanded(
             flex: 1,
             child: Padding(
-              padding: EdgeInsets.fromLTRB(5, 10, 100, 10),
-              child: Text(
-                'Este aplicativo é um protótipo e foi atualizado pela ultima vez no dia 18/07/2020',
-              ),
+              padding: EdgeInsets.fromLTRB(10, 10, 100, 10),
+              child: WarningPrototype(),
             ),
           ),
         ]),
