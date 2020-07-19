@@ -41,6 +41,9 @@ class _CityQueryState extends State<CityQuery> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
+                  SizedBox(
+                    height: 50,
+                  ),
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 70.0),
                     child: Text(
@@ -55,32 +58,13 @@ class _CityQueryState extends State<CityQuery> {
                   ),
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 40.0),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: <Widget>[
-                        Text(
-                          city,
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                              fontSize: 40,
-                              color: Color.fromRGBO(0, 202, 32, 1)),
-                        ),
-                        !loading
-                            ? SizedBox(
-                                width: 0,
-                              )
-                            : Row(
-                                children: <Widget>[
-                                  SizedBox(width: 20),
-                                  SpinKitRing(
-                                    color: Color.fromRGBO(0, 202, 32, 1),
-                                    size: 30,
-                                    lineWidth: 5,
-                                  )
-                                ],
-                              ),
-                      ],
+                    child: Text(
+                      city,
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 40,
+                          color: Color.fromRGBO(0, 202, 32, 1)),
                     ),
                   ),
                   SizedBox(
@@ -114,6 +98,22 @@ class _CityQueryState extends State<CityQuery> {
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
+                !loading
+                    ? SizedBox(
+                        height: 50,
+                      )
+                    : Column(
+                        children: <Widget>[
+                          SpinKitRing(
+                            color: Color.fromRGBO(0, 202, 32, 1),
+                            size: 30,
+                            lineWidth: 5,
+                          ),
+                          SizedBox(
+                            height: 20,
+                          )
+                        ],
+                      ),
                 Button(
                   text: 'TROCAR CIDADE',
                   onPressed: () async {
