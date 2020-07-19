@@ -8,7 +8,7 @@ import 'linkArray/laranja.dart';
 import 'linkArray/vermelha.dart';
 
 class Protocols extends StatelessWidget {
-  final Bandeira bandeira;
+  final CityModel city;
   final Color green = Color.fromRGBO(0, 202, 32, 1);
   final Color altGreen = Colors.lightGreenAccent[400];
 
@@ -18,7 +18,7 @@ class Protocols extends StatelessWidget {
   final TextStyle style =
       TextStyle(fontSize: 23, fontWeight: FontWeight.normal);
 
-  Protocols({Key key, @required this.bandeira});
+  Protocols({Key key, @required this.city});
 
   //// download pdf file directly (not working)
   //void _downloadFile(String folder, String filename) async {
@@ -77,12 +77,18 @@ class Protocols extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final List<String> links = getLinks(bandeira);
+    final List<String> links = getLinks(city.bandeira);
     return SafeArea(
       child: Scaffold(
         body: Column(
           children: <Widget>[
             TopBar(),
+            SizedBox(height: 25),
+            Text(
+              city.cidade,
+              style: TextStyle(fontWeight: FontWeight.w700, fontSize: 35),
+            ),
+            SizedBox(height: 15),
             Expanded(
               child: GridView.count(
                 crossAxisCount: 2,

@@ -23,7 +23,7 @@ class _InfosState extends State<Infos> {
   int _currentIndex = 0;
   @override
   Widget build(BuildContext context) {
-    final tabs = [GeneralInfos(city: city), Protocols(bandeira: city.bandeira)];
+    final tabs = [GeneralInfos(city: city), Protocols(city: city)];
     return SafeArea(
       child: Scaffold(
         body: tabs[_currentIndex],
