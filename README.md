@@ -1,16 +1,12 @@
-# quarentena_rs
+# QuarentenaRS
 
-A new Flutter project.
+Este aplicativo foi desenvolvido como projeto final da disciplina de Interação Humano-Computador no semestre 2020/1.
 
-## Getting Started
+A ideia era prover um meio fácil e acessível para a população do Rio Grande do Sul se informar sobre as medidas do Governo Estadual de combate à pandemia de COVID-19, especificamente o [Plano de Distanciamento Controlado](https://distanciamentocontrolado.rs.gov.br/).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### AUTORES
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Artur Waquil Campana
+- [Carlos Morvan](https://github.com/soularac)
